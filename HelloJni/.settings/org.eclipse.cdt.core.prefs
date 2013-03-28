@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1311678097/PATH/delimiter=\:
+environment/project/com.android.toolchain.gcc.1311678097/PATH/operation=replace
+environment/project/com.android.toolchain.gcc.1311678097/PATH/value=/usr/lib/lightdm/lightdm\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/home/arpan/Desktop/android-ndk-r8e/\:$(PATH)
+environment/project/com.android.toolchain.gcc.1311678097/append=true
+environment/project/com.android.toolchain.gcc.1311678097/appendContributed=true
